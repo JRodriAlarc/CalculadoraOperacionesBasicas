@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">appCalculadora</string>
+    <string name="calculadora_de_operaciones_basicas">Calculadora de Operaciones Basicas</string>
+    <string name="todo">TODO</string>
+    <string name="icon">TODO</string>
+    <string name="txt_val1">TextView</string>
+    <string name="valor2">Valor2</string>
+    <string name="calcular">Calcular</string>
+    <string name="valor1">Valor1</string>
+    <string name="el_resultado_es">El Resultado Es ...</string>
+    <string name="btnRes">TODO</string>
+    <string name="btnSum">TODO</string>
+    <string name="btnDiv">TODO</string>
+    <string name="btnMult">TODO</string>
+</resources>
